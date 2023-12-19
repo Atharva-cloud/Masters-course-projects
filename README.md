@@ -1,6 +1,6 @@
 # Probability and Statistics for Data Science (ECE 225A) Project
 
-This repository contains the Jupyter Notebook project for the Probability and Statistics for Data Science course (ECE 225A).
+This repository contains the Jupyter Notebook project for the final project for Probability and Statistics for Data Science course (ECE 225A).
 
 ## Course Information
 
