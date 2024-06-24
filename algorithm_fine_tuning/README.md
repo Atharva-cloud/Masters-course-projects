@@ -4,4 +4,4 @@ One way to speed up nearest neighbor classification is to replace the training s
 
 In this project, we focus on developing a strategy for choosing prototypes from the training set with the ultimate goal of achieving high classification performance on test data. We need to identify the properties that make a set of examples effective for nearest neighbor classification, formalize these properties, and use them to automatically select prototypes. For this project, assume that 1-NN (1-Nearest Neighbor) will be used.
 
-You will implement your algorithm and test it on the MNIST dataset, which can be found at the following link: [MNIST Dataset on Kaggle]([url](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)).
+You will implement your algorithm and test it on the MNIST dataset, which can be found at the following link: [MNIST Dataset on Kaggle]([url](https://www.kaggle.com/datasets/hojjatk/mnist-dataset))
