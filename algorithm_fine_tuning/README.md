@@ -15,10 +15,10 @@ In this project, we consider a standard unconstrained optimization problem:
 
 $$ \min L(w) $$
 
-where \( L(\cdot) \) is a cost function and \( w \in \mathbb{R}^d \). In class, several approaches such as gradient descent and stochastic gradient descent were explored under differentiability conditions on \( L(w) \). Here, we explore a different and simpler approach: coordinate descent.
+where $$ \( L(\cdot) \) $$ is a cost function and $$ \( w \in \mathbb{R}^d \) $$. In class, several approaches such as gradient descent and stochastic gradient descent were explored under differentiability conditions on $$ \( L(w) \) $$. Here, we explore a different and simpler approach: coordinate descent.
 
 The coordinate descent method involves the following steps:
 
-1. Initialize \( w \) somehow.
-2. Repeat: pick a coordinate \( i \in \{1, 2, \ldots, d\} \), and update the value of \( w_i \) to reduce the loss.
+1. Initialize $$ \( w \) $$ somehow.
+2. Repeat: pick a coordinate $$ \( i \in \{1, 2, \ldots, d\} \) $$, and update the value of $$ \( w_i \) $$ to reduce the loss.
 
