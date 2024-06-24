@@ -13,7 +13,7 @@ We will implement your algorithm and test it on the MNIST dataset.
 
 In this project, we consider a standard unconstrained optimization problem:
 
-\[ \min L(w) \]
+$$ \min L(w) $$
 
 where \( L(\cdot) \) is a cost function and \( w \in \mathbb{R}^d \). In class, several approaches such as gradient descent and stochastic gradient descent were explored under differentiability conditions on \( L(w) \). Here, we explore a different and simpler approach: coordinate descent.
 
